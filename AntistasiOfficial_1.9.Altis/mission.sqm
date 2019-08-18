@@ -124,8 +124,8 @@ class Mission
 {
 	class Intel
 	{
-		briefingName="@STR_MISSION_NAME_SQM";
-		overviewText="Build FIA Army from scratch and defeat the AAF and CSAT forces in a whole map Dynamic Mission.";
+		briefingName="$STR_MISSION_NAME_SQM";
+		overviewText="$STR_MISSION_OVERVIEW_TEXT";
 		resistanceWest=0;
 		resistanceEast=1;
 		startWeather=0;

@@ -11,7 +11,10 @@
 			<Key ID="STR_MISSION_NAME_EXT">
 				<Original>Antistasi 1.9.2.01</Original>
 			</Key>
-		</Container>
+			<Key ID="STR_MISSION_OVERVIEWTEXT">
+				<Original>Build FIA Army from scratch and defeat the AAF and CSAT forces in a whole map Dynamic Mission.</Original>
+			</Key>
+	</Container>
 	</Package>
 	<Package name="Settings">
 		<Container name="Description_settings">
@@ -19,6 +22,12 @@
 				<Original>Antistasi: ability to start a fresh campaign</Original>
 				<Russian>Antistasi: возможность начать новую кампанию</Russian>
 				<Spanish>Antistasi: empezar una nueva campaña</Spanish>
+			</Key>
+			<Key ID="STR_DES_OVERVIEW_TEXT">
+				<Original>Be the Resistance Leader. Fight against a superior enemy in technology, number, assets and vehicles. Use guerrilla tactics in a totally dynamic world, with around 18 sidemissions, everywhere, anytime, anything.</Original>
+			</Key>
+			<Key ID="STR_DES_ONLOADMISSION_TEXT">
+				<Original>Be a Resistance Leader - Be a Hero</Original>
 			</Key>
 			<Key ID="STR_DES_ESWCMD">
 				<Original>Antistasi: enable Switch Commander</Original>
@@ -74,6 +83,51 @@
 				<Original>Off</Original>
 				<Russian>Выкл</Russian>
 				<Spanish>No</Spanish>
+			</Key>
+			<Key ID="STR_DES_END1_TITLE">
+				<Original>V I C T O R Y</Original>
+			</Key>
+			<Key ID="STR_DES_END1_SUBTITLE">
+				<Original>Altis is Ours!</Original>
+			</Key>
+			<Key ID="STR_DES_END1_DESCRIPTION">
+				<Original>The population of Altis loves you!&lt;br/&gt;The FIA brave soldiers prooved their valour, and Petros, Altis new Prime Minister, could at last to have a nice holliday. A deserved rest in a Greek island, drinking with Petros.</Original>
+			</Key>
+			<Key ID="STR_DES_PETROSDEAD_TITLE">
+				<Original>Petros is Dead</Original>
+			</Key>
+			<Key ID="STR_DES_PETROSDEAD_SUBTITLE">
+				<Original>Petros is Dead</Original>
+			</Key>
+			<Key ID="STR_DES_PETROSDEAD_DESCRIPTION">
+				<Original>Petros is Dead</Original>
+			</Key>
+			<Key ID="STR_DES_DESTRCITIES_TITLE">
+				<Original>Altis is Destroyed</Original>
+			</Key>
+			<Key ID="STR_DES_DESTRCITIES_SUBTITLE">
+				<Original>Altis got Destroyed by CSAT</Original>
+			</Key>
+			<Key ID="STR_DES_DESTRCITIES_DESCRIPTION">
+				<Original>Eight cities got destroyed by CSAT.&lt;br/&gt;Altis no longer exists, nobody wants to live here.</Original>
+			</Key>
+			<Key ID="STR_DES_MODS_TITLE">
+				<Original>Incompatible Mods</Original>
+			</Key>
+			<Key ID="STR_DES_MODS_SUBTITLE">
+				<Original>Incompatible Mods detected</Original>
+			</Key>
+			<Key ID="STR_DES_MODS_DESCRIPTION">
+				<Original>An incompatible mod installed on the server or your PC has been detected. To avoid support problems the mission is finished. Please uninstall unsupported (ASR AI, aLIVE, MCC or any AI behaviour) mods from your computer or server to be able to play Antistasi.</Original>
+			</Key>
+			<Key ID="STR_DES_SERVERFULL_TITLE">
+				<Original>Reserved Slot</Original>
+			</Key>
+			<Key ID="STR_DES_SERVERFULL_SUBTITLE">
+				<Original>This slot is reserved</Original>
+			</Key>
+			<Key ID="STR_DES_SERVERFULL_DESCRIPTION">
+				<Original>Sorry, but this slot is reserved for a Server Member. To become member, please contact to the server admin or clan.</Original>
 			</Key>
 		</Container>
 	</Package>
